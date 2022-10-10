@@ -31,4 +31,4 @@ I want to continue focusing on centering items on the webpage, getting margins a
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@dquindara8](https://www.frontendmentor.io/profile/dquindara8)
