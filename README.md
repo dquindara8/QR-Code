@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code Component Image](C:\Users\HP\Desktop\1 QR Code image.png)
+![1 QR Code image](https://user-images.githubusercontent.com/108308166/194785619-596d5b1d-f8b8-47bc-b8e8-82b801da3e35.png)
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
